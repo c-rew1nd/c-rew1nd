@@ -27,25 +27,24 @@ src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemJ4djYzcTZsczVkYzA1MWNiY
 <h2>👨‍💻 A Little Bit About Me and My Intrests</h2>
 
 ```
-<span class="pl-ent">name</span>: Dhruv Chandra Tripathi</span>
-located_in: spa>Kanpur, India</span>
+name: Dhruv Chandra Tripathi
+located_in: Kanpur, India
 
 education:
   [
-    <span style="color:blue;">"Self-Taught Developer"</span>,
-    <span style="color:blue;">"Bachelor's in Computer Science and Engineering"</span>,
+    "Self-Taught Developer",
+    "Bachelor's in Computer Science and Engineering",
   ]
 
 fields_of_interests:
   [
-    <span style="color:blue;">"Web Development"</span>,
-    <span style="color:blue;">"Data Science"</span>,
-    <span style="color:blue;">"Machine Learning"</span>
+    "Web Development",
+    "Data Science",
+    "Machine Learning"
   ]
+currently_learning: ["langchain, Next.js, and React Native"]
+2025 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
 
-currently_learning: [<span style="color:blue;">"langchain, Next.js, and React Native"</span>]
-2025 Goals: [<span style="color:blue;">"Create 25+ Projects and learn at least 5-10 new Technologies."</span>]
-
-hobbies: [<span style="color:blue;">"Gaming"</span>, <span style="color:blue;">"reading"</span>, <span style="color:blue;">"writing"</span>, <span style="color:blue;">"Art"</span>]
+hobbies: ["Gaming", "reading", "writing", "Art"]
 ```
 
