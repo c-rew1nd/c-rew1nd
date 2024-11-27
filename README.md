@@ -18,7 +18,7 @@
   </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://drive.google.com/file/d/1VNAi_FZNlo0qk79pUjI2x2KRo9c3MU50/view?usp=sharing">
-    <img src="https://cdn2.iconfinder.com/data/icons/business-general-basic/64/resume-64.png" alt="Resume">
+    <img src="https://cdn2.iconfinder.com/data/icons/human-resources-fourteen-black-and-white/128/CV-curriculum_vitae-resume-employee-64.png" alt="Resume">
   </a>
 <br>
 
