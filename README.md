@@ -6,10 +6,11 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/dctripathi">
-    <img src="https://cdn3.iconfinder.com/data/icons/social-media-2418/128/A-02-64.png" alt="LinkedIn">
+    <img src="https://cdn3.iconfinder.com/data/icons/social-round-corner/512/linkdin__social_media_logo-64.png" alt="LinkedIn">
   </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:dreektseayger@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email">
+    <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-64.png" alt="Email">
   </a>
  
 
