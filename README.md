@@ -29,7 +29,7 @@ src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemJ4djYzcTZsczVkYzA1MWNiY
 
 <h2>👨‍💻 A Little Bit About Me and My Intrests</h2>
 
-```
+```yaml
 name: Dhruv Chandra Tripathi
 located_in: Kanpur, India
 
