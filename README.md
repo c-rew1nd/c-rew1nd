@@ -16,6 +16,10 @@
   <a href="https://www.instagram.com/__dhruvtripathi__/">
     <img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-64.png" alt="Instagram">
   </a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://drive.google.com/file/d/1VNAi_FZNlo0qk79pUjI2x2KRo9c3MU50/view?usp=sharing">
+    <img src="https://www.iconfinder.com/icons/4335922/business_cv_finance_resume_icon" alt="Resume">
+  </a>
 <br>
 
 <a>
