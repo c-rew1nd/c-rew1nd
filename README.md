@@ -18,12 +18,10 @@
   </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://drive.google.com/file/d/1VNAi_FZNlo0qk79pUjI2x2KRo9c3MU50/view?usp=sharing">
-    <img src="https://cdn2.iconfinder.com/data/icons/human-resources-fourteen-black-and-white/128/CV-curriculum_vitae-resume-employee-64.png" alt="Resume">
+    <img src="https://cdn2.iconfinder.com/data/icons/job-interview-5/496/resum-application-curriculum-job-qualification-64.png" alt="Resume">
   </a>
-<br>
-
 <a>
-      <img height=150 
+      <img height=25
 src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemJ4djYzcTZsczVkYzA1MWNiYW03ZzNpbzczdHRrOXg3ZDFwb2FraSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.webp" alt="Code-Gif">
 </a>
 </p>
