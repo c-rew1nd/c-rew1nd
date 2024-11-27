@@ -76,4 +76,10 @@ hobbies: ["Gaming", "reading", "writing", "Art"]
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50" />          
 </p>
 
+<h2>📈 My Github History!</h2>
+[![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=c-rew1nd)](https://github.com/c-rew1nd/github-readme-stats)
+
+
+
+
 
