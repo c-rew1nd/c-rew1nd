@@ -77,7 +77,9 @@ hobbies: ["Gaming", "reading", "writing", "Art"]
 </p>
 
 <h2>📈 My Github History!</h2>
-[![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=c-rew1nd)](https://github.com/c-rew1nd/github-readme-stats)
+<a href="https://github.com/c-rew1nd/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=c-rew1nd" alt="Dhruv's GitHub Stats" />
+</a>
 
 
 
