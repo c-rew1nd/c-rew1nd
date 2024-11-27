@@ -12,6 +12,13 @@
   <a href="mailto:dreektseayger@gmail.com">
     <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-64.png" alt="Email">
   </a>
- 
+&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/__dhruvtripathi__/">
+    <img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-64.png" alt="Instagram">
+  </a>
+<a>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemJ4djYzcTZsczVkYzA1MWNiYW03ZzNpbzczdHRrOXg3ZDFwb2FraSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.webp" alt="Code-Gif>
+</a>
 
+ 
 </p>
