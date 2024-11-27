@@ -78,11 +78,11 @@ hobbies: ["Gaming", "reading", "writing", "Art"]
 
 <h2>📈 My Github History!</h2>
 <a href="https://github.com/c-rew1nd/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=c-rew1nd&show_icons=true&theme=transparent" alt="Dhruv's GitHub Stats" />
-  </a>
- <a href="https://github.com/c-rew1nd/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c-rew1nd&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
- </a>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=c-rew1nd" />
+</a>
+<a href="https://github.com/c-rew1nd/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=c-rew1nd&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 
 
