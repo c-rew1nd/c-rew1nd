@@ -18,7 +18,7 @@
   </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://drive.google.com/file/d/1VNAi_FZNlo0qk79pUjI2x2KRo9c3MU50/view?usp=sharing">
-    <img src="https://www.iconfinder.com/icons/4335922/business_cv_finance_resume_icon" alt="Resume">
+    <img src="https://cdn2.iconfinder.com/data/icons/business-and-finance-388/30/resume_business_cv_work_job_curriculum-_19-64.png" alt="Resume">
   </a>
 <br>
 
