@@ -86,8 +86,9 @@ hobbies: ["Gaming", "reading", "writing", "Art"]
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=c-rew1nd&layout=compact&langs_count=8&card_width=320&theme=transparent" />
 </a>
 </p>
+
 <p align="center">
-  <img src="https://github.com/c-rew1nd/c-rew1nd/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&" alt="footer"/>
 </p>
 
 
