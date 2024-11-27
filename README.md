@@ -27,8 +27,8 @@ src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemJ4djYzcTZsczVkYzA1MWNiY
 <h2>👨‍💻 A Little Bit About Me and My Intrests</h2>
 
 ```
-name: <span style="color:green;">Dhruv Chandra Tripathi</span>
-located_in: <span style="color:blue;">Kanpur, India</span>
+<span class="pl-ent">name</span>: Dhruv Chandra Tripathi</span>
+located_in: spa>Kanpur, India</span>
 
 education:
   [
