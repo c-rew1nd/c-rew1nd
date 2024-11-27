@@ -80,10 +80,10 @@ hobbies: ["Gaming", "reading", "writing", "Art"]
 <p align="center">
 
 <a href="https://github.com/c-rew1nd/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=c-rew1nd&show_icons=true&theme=transparent" " />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=c-rew1nd&show_icons=true&theme=transparent"  />
 </a>
 <a href="https://github.com/c-rew1nd/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=c-rew1nd&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=c-rew1nd&layout=compact&langs_count=8&card_width=320&theme=transparent" />
 </a>
 </p>
 
