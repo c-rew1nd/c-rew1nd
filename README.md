@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/dctripathi">
-  <img src="https://cdn4.iconfinder.com/data/icons/social-2-2/512/linkdin__social_media_logo-64.png" alt="LinkedIn"/>
+  <img height=62.5 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn"/>
   </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/__dhruvtripathi__/">
