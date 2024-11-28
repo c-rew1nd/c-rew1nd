@@ -8,10 +8,7 @@
   <a href="https://linkedin.com/in/dctripathi">
     <img src="https://cdn3.iconfinder.com/data/icons/social-round-corner/512/linkdin__social_media_logo-64.png" alt="LinkedIn">
   </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:dreektseayger@gmail.com">
-    <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/48/google-gmail-64.png" alt="Email">
-  </a>
+
 &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/__dhruvtripathi__/">
     <img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-64.png" alt="Instagram">
@@ -45,7 +42,7 @@ fields_of_interests:
     "Data Science",
     "Machine Learning"
   ]
-currently_learning: ["langchain, Next.js, and React Native"]
+currently_learning: ["langchain, Next.js and React Native"]
 2025 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
 
 hobbies: ["Gaming", "reading", "writing", "Art"]
