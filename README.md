@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Hey%20%20Everyone%20!🕹️" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Hey%20%20Everyone!🕹️" alt="header"/>
 </p>
 
 <h2 align="center">Let’s Connect and Have a Chat 💬</h2>
