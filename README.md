@@ -6,9 +6,8 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/dctripathi">
-    <img src="https://cdn3.iconfinder.com/data/icons/social-round-corner/512/linkdin__social_media_logo-64.png" alt="LinkedIn">
+    <img src="[https://cdn3.iconfinder.com/data/icons/social-round-corner/512/linkdin__social_media_logo-64.png](https://cdn3.iconfinder.com/data/icons/social-round-corner/512/linkdin__social_media_logo-64.png)" alt="LinkedIn">
   </a>
-
 &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/__dhruvtripathi__/">
     <img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-64.png" alt="Instagram">
