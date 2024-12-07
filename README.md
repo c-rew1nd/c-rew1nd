@@ -7,26 +7,19 @@
 <p align="center">
   <a href="https://linkedin.com/in/dctripathi">
   <img height=62.5 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn"/>
-<p>Linkdin</p>
   </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/__dhruvtripathi__/">
     <img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-64.png" alt="Instagram">
-<p>Instagram</p>
-
   </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://drive.google.com/file/d/1VNAi_FZNlo0qk79pUjI2x2KRo9c3MU50/view?usp=sharing">
     <img src="https://cdn2.iconfinder.com/data/icons/job-interview-5/496/resum-application-curriculum-job-qualification-64.png" alt="Resume">
-<p>Resume</p>
-
   </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a>
 <img height=62.5
 src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemJ4djYzcTZsczVkYzA1MWNiYW03ZzNpbzczdHRrOXg3ZDFwb2FraSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.webp" alt="Code-Gif">
-
-
 </a>
 </p>
 
