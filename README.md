@@ -23,7 +23,7 @@ src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExemJ4djYzcTZsczVkYzA1MWNiY
 </a>
 </p>
 
-<h2>👨‍💻 A Little Bit About Me and My InteSrests</h2>
+<h2>👨‍💻 A Little Bit About Me and My Interests</h2>
 
 ```yaml
 name: Dhruv Chandra Tripathi
