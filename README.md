@@ -13,7 +13,7 @@
     <img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-64.png" alt="Instagram">
   </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://drive.google.com/file/d/1VNAi_FZNlo0qk79pUjI2x2KRo9c3MU50/view?usp=sharing">
+  <a href="[https://drive.google.com/file/d/1VNAi_FZNlo0qk79pUjI2x2KRo9c3MU50/view?usp=sharing](https://www.linkedin.com/in/dctripathi/overlay/1767184170802/single-media-viewer/?profileId=ACoAADa9uSYBmZDNZL8YLwkavBuTvu_aY0w5ryg)">
     <img src="https://cdn2.iconfinder.com/data/icons/job-interview-5/496/resum-application-curriculum-job-qualification-64.png" alt="Resume">
   </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
@@ -76,16 +76,6 @@ hobbies: ["Gaming", "reading", "writing", "Art"]
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50" />          
 </p>
 
-<h2>📈 My Github History!</h2>
-<p align="center">
-
-<a href="https://github.com/c-rew1nd/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=c-rew1nd&show_icons=true&theme=transparent"  />
-</a>
-<a href="https://github.com/c-rew1nd/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=c-rew1nd&layout=compact&langs_count=8&card_width=320&theme=transparent" />
-</a>
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer" alt="footer"/>
